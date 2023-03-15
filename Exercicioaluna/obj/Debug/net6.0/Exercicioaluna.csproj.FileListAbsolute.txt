@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\Exercicioaluna\obj\Debug\net6.0\Exercicioaluna.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\Exercicioaluna\obj\Debug\net6.0\Exercicioaluna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\Exercicioaluna\obj\Debug\net6.0\Exercicioaluna.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\Exercicioaluna\obj\Debug\net6.0\Exercicioaluna.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\Exercicioaluna\obj\Debug\net6.0\Exercicioaluna.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\Exercicioaluna\bin\Debug\net6.0\Exercicioaluna.exe
+C:\Users\LAB4\Desktop\Exercicioaluna\bin\Debug\net6.0\Exercicioaluna.deps.json
+C:\Users\LAB4\Desktop\Exercicioaluna\bin\Debug\net6.0\Exercicioaluna.runtimeconfig.json
+C:\Users\LAB4\Desktop\Exercicioaluna\bin\Debug\net6.0\Exercicioaluna.dll
+C:\Users\LAB4\Desktop\Exercicioaluna\bin\Debug\net6.0\Exercicioaluna.pdb
+C:\Users\LAB4\Desktop\Exercicioaluna\obj\Debug\net6.0\Exercicioaluna.dll
+C:\Users\LAB4\Desktop\Exercicioaluna\obj\Debug\net6.0\refint\Exercicioaluna.dll
+C:\Users\LAB4\Desktop\Exercicioaluna\obj\Debug\net6.0\Exercicioaluna.pdb
+C:\Users\LAB4\Desktop\Exercicioaluna\obj\Debug\net6.0\Exercicioaluna.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\Exercicioaluna\obj\Debug\net6.0\ref\Exercicioaluna.dll
