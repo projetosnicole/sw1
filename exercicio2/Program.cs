@@ -8,7 +8,7 @@ class Program
     
        n1.Nome = "Nicole";
        n1.Email = "niihcarol25@gmail.com";
-       n1.Telefone = "11 93343-9880";\
+       n1.Telefone = "11 93343-9880";
        n1.Cpf = "539.256.268-08";
        n1.Idade = 16;
 
